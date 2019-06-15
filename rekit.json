@@ -1,0 +1,5 @@
+{
+  "appType": "react",
+  "css": "less",
+  "exclude": [".cache"]
+}
